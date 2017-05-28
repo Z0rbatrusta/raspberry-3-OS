@@ -1,0 +1,34 @@
+3.5inch touch screen CD Use Guide
+Please read below information before you use the LCD panel
+
+1.Document  :
+1£©.Writing the Img to the SD card ---- How to burn the image system into the SD card?
+2£©.User Manual for 3.5' Pi LCD ----- How to connect raspberry pi, and light the LCD screen?
+3£©How to Calibrate the Touch Screen
+4£©How to Install Soft Keyboard
+5£©How to Modify the Display Direction 
+
+2.Driver£º
+
+1£©The method of add drive for touch LCD (Raspberry Pi) ------- How to add the drive in your own raspbian system?
+
+2£©LCD-show-160701.tar  ------- All drives that the raspbian-jessie system need.
+
+3. image :
+We have provided 3 different versions image files of raspberry pi. You can download the corresponding .img system according to your PI board version and burn the .img into a new or format SD card for testing directly.
+
+1£©PI1-LCD35-2014-12-02-raspbian-jessie.img  ------ The mirroring system of Raspberry Pi 1 generation products
+2£©PI2---LCD35-150303-raspbian-jessie.img    ------- The mirroring system of Raspberry Pi 2 generation products
+3£©PI3-LCD35inch-2016-05-27-raspbian-jessie     -------- The mirroring system of Raspberry Pi 3 generation products
+
+4.Interface
+3.5inch 26 pin to PI-gpio  ----------- How to connect 3.5 inch screen to board. 
+
+5.Software  
+The common software and tools of raspberry Pi 
+1£©Panasonic_SDFormatter   ----- SD card formatting tools  
+2£©Putty                  -----raspberry pi system background tool
+3£©usbit-162
+4£©Win32DiskImager        ------ Burn System Tools
+5£©Hash_veryfy_tool_1.0.4
+6£©VNC-Viewer-5.0.3-Windows-32bit
